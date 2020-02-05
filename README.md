@@ -1,1 +1,2 @@
-# FCC_personal_portfolio
+# FCC: Personal Portfolio
+freeCodeCamp - Responsive Web Design Certification
